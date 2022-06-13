@@ -8,12 +8,8 @@
 
 <h1 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -57,7 +53,8 @@
 ### :fire: My Stats:
 [![ronystico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronystico&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronystico&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronystico&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ronystico/ronystico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
