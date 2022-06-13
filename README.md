@@ -2,6 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+=======
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ronystico&style=for-the-badge&color=lightgrey" alt=""/>
+</div>
+
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+</h1>
+
+
 ---
 
 ### :man_technologist: About Me:
@@ -45,6 +56,10 @@
 [![ronystico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronystico&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronystico&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+=======
+
+
 
 <!---
 ronystico/ronystico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
