@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-=======
+<hr />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ronystico&style=for-the-badge&color=lightgrey" alt=""/>
 </div>
@@ -57,7 +57,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronystico&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-=======
+<hr />
 
 
 
